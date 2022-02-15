@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.16_08_46_22.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stains</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1920</xmin>
+			<ymin>832</ymin>
+			<xmax>2227</xmax>
+			<ymax>1305</ymax>
+		</bndbox>
+	</object>
+</annotation>
